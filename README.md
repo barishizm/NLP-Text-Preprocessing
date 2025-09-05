@@ -26,4 +26,4 @@ The script loads resources, tokenises the provided sample text, generates visual
 To analyse your own corpus, replace the `text` variable in `main.py`.
 
 ## License
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](LICENSE)
